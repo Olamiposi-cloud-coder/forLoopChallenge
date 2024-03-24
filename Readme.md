@@ -15,7 +15,7 @@ Welcome to the Tips Calculator Challenge! In this challenge, you'll be working o
 ## Usage
 
 1. Clone the repository to your local machine:
-   git clone https://github.com/your-username/tips-calculator-challenge.git
+   git clone https://github.com/Olamiposi-cloud-coder/forLoopChallenge.git
 
 2. Open the index.js file and implement the calcTip and calcAverage functions based on the challenge details.
 
